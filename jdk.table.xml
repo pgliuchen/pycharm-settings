@@ -1,0 +1,255 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.5 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.5" />
+      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/workspace/appannie/aa" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" type="simple" />
+            <root url="file:///Library/Python/2.7/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/596071422" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/aa-api-business" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/aa-qa" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.3 (vagrant:///Users/liu/workspace/appannie/vagrant/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="vagrant:///Users/liu/workspace/appannie/vagrant/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-1647013262" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/setuptools-3.4.1-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/201544331" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/-2145795944" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/-281998111" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/-1036056684" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/-1676341222" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/workspace/appannie/vagrant" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/setuptools-3.4.1-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/setuptools-3.4.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/-2145795944" remote-root="/usr/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/-281998111" remote-root="/usr/local/lib/python2.7/dist-packages/newrelic-2.20.1.18" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/-1036056684" remote-root="/usr/lib/python2.7/dist-packages/PIL" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1647013262/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/workspace/appannie/envs/aa-common" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/workspace/appannie/envs/aa-common/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/workspace/appannie/aa-api-business" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/aa-qa" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-common/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-common/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-common/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-common/lib/python2.7/site-packages/newrelic-2.62.0.47" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-190999261" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/workspace/appannie/envs/aa-api-business" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/workspace/appannie/envs/aa-api-business/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/workspace/appannie/aa-api-business" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/aa-qa" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-api-business/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-api-business/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-api-business/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-api-business/lib/python2.7/site-packages/newrelic-2.62.0.47" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/498476875" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/workspace/appannie/envs/aa-soa-utils" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/workspace/appannie/envs/aa-soa-utils/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/workspace/appannie/aa-qa" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-soa-utils/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-soa-utils/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-soa-utils/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/workspace/appannie/aa-api-business" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/workspace/appannie/envs/aa-user-service" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/workspace/appannie/envs/aa-user-service/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-user-service/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-user-service/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-user-service/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-user-service/lib/python2.7/site-packages/newrelic-2.62.0.47" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-537615381" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/workspace/appannie/aa-api-business" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/workspace/appannie/envs/aa-api-business/aa-api-businesses" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/workspace/appannie/envs/aa-api-business/aa-api-businesses/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/workspace/appannie/aa-api-business" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/aa-qa" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-api-business/aa-api-businesses/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-api-business/aa-api-businesses/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-api-business/aa-api-businesses/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/976834193" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/workspace/appannie/aa-api-business" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/workspace/appannie/envs/aa-api-business-real" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/workspace/appannie/envs/aa-api-business-real/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-api-business-real/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-api-business-real/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-api-business-real/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/workspace/appannie/envs/aa-api-business-real/lib/python2.7/site-packages/newrelic-2.62.0.47" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1993566416" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

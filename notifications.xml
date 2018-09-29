@@ -1,0 +1,43 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Common Version Control Messages" displayType="NONE" shouldLog="false" />
+    <notification groupId="FindInPath" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Git Minor Notifications" shouldLog="false" />
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Packaging" shouldLog="false" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Execution" displayType="NONE" shouldLog="false" />
+    <notification groupId="Reformat Code" shouldLog="false" />
+    <notification groupId="Skeletons" shouldLog="false" />
+    <notification groupId="Django Data Sources Detector" shouldLog="false" />
+    <notification groupId="Database log" displayType="NONE" shouldLog="false" />
+    <notification groupId="Database" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Vcs Minor Notifications" shouldLog="false" />
+    <notification groupId="Database view" displayType="NONE" shouldLog="false" />
+    <notification groupId="Database refactoring log" displayType="NONE" shouldLog="false" />
+    <notification groupId="Database editor log" displayType="NONE" shouldLog="false" />
+    <notification groupId="Project Loading Error" shouldLog="false" />
+    <notification groupId="Upgrade Subscription Renewal" displayType="NONE" shouldLog="false" />
+    <notification groupId="Database detector" displayType="NONE" shouldLog="false" />
+    <notification groupId="Database execution log" displayType="NONE" shouldLog="false" />
+    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Power Save Mode" shouldLog="false" />
+    <notification groupId="System Health (minor)" displayType="NONE" shouldLog="false" />
+    <notification groupId="Web Deployment" shouldLog="false" />
+    <toolWindow group="Git Messages" />
+    <toolWindow group="FindInPath" />
+    <toolWindow group="Database" />
+    <toolWindow group="Common Version Control Messages" />
+    <toolWindow group="Debugger messages" />
+    <toolWindow group="Database view" />
+    <toolWindow group="Find in Path" />
+    <toolWindow group="Web Deployment: Remote Host" />
+    <toolWindow group="Vcs Messages" />
+    <toolWindow group="Inspection Results" />
+  </component>
+</application>

@@ -1,0 +1,46 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="control 4" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift control W" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="control W" />
+  </action>
+  <action id="Console.Jdbc.Close">
+    <keyboard-shortcut first-keystroke="control 4" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="control F" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift control F" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="alt F" />
+  </action>
+  <action id="ScrollTreeToCenter" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="control M" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="control E" />
+  </action>
+</keymap>

@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Pylint" description="Pylint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="pylint" />
+      <option name="PARAMETERS" value="--rcfile=/Users/liu/Downloads/pylintrc --msg-template='{category}{module}{obj}{line}{column}{msg}' $Prompt$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/workspace/appannie/aa-api-business" />
+    </exec>
+  </tool>
+</toolSet>
